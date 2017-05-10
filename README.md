@@ -1,4 +1,3 @@
 # apache
-
-TODO: Enter the cookbook description here.
+Instala un servidor web con apache de pruebas y un contenido.
 
